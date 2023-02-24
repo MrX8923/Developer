@@ -1,0 +1,40 @@
+html, body{
+
+}
+h1.small{
+    line-height: 0;
+}
+p.small{
+    line-height: 0;
+    font-size: small;
+}
+p.normal{
+    margin-block-start: 30px;
+}
+p.top{
+    margin-top: 30px;
+}
+p.down{
+    margin-left: 300px;
+}
+img{
+    border-radius: 10px;
+}
+a{
+    text-align: justify;
+    margin-right: 30px;
+}
+header{
+    margin-left: 50px;
+    font-family: Verdana,sans-serif;
+}
+section{
+    text-align: left;
+    margin-left: 50px;
+    font-family: Verdana,sans-serif;
+}
+footer{
+    color: gray;
+    font-size: small;
+    margin-top: 100px;
+}
